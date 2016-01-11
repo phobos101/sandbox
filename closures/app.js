@@ -1,4 +1,5 @@
 // Practising Closures and Callbacks.
+// Written by robwilson@gmail.com
 
 // The closure can reference variables within the scope itself was created in.
 // The closure can also be sent to another function as an argument becuase in

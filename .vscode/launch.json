@@ -5,7 +5,7 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "./memory_pointers/app.js",
+			"program": "./event-emitter/app.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": ".",
